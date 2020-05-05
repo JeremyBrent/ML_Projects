@@ -1,1 +1,1 @@
-# MNIST
+# Machine Learning Projects
